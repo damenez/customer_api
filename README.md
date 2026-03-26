@@ -1,5 +1,10 @@
 Legacy Modernization using fake DB2 data
 
+Python replacing the UI layer
+COBOL logic being “exposed”
+Ready for later connection to z/OS Connect
+
+
 Project Structure
 
 fastapi-legacy-app/
