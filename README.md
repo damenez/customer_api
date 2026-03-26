@@ -1,3 +1,5 @@
+Legacy Modernization using fake DB2 data
+
 Project Structure
 
 fastapi-legacy-app/
